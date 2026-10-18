@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Avtar Singh — Creative Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 4392,
+      "bodyTextHash": "5a2228ec05664560354ff30b7bb0f72f3504df57078776861a6416ba7b7d32dc",
+      "bodyTextPrefix": "Skip to content Avtar Singh Home About Projects Skills Experienc",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Avtar Singh — Creative Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 4326,
+      "bodyTextHash": "1ea176a7f00a575c152ec309694b972857e19eab510f11d0e290209cf1208f96",
+      "bodyTextPrefix": "Skip to content AS Available for select projects. Building ideas",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
